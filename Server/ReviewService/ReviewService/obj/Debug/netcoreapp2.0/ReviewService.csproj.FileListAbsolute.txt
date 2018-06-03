@@ -1,0 +1,16 @@
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewService.deps.json
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewService.runtimeconfig.json
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewService.runtimeconfig.dev.json
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewService.dll
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewService.pdb
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.csprojResolveAssemblyReference.cache
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.csproj.CoreCompileInputs.cache
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.AssemblyInfoInputs.cache
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.AssemblyInfo.cs
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.dll
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.pdb
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewData.dll
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewDomain.dll
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewData.pdb
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\bin\Debug\netcoreapp2.0\ReviewDomain.pdb
+C:\Git\reviews_react_aspnetcore\Server\ReviewService\ReviewService\obj\Debug\netcoreapp2.0\ReviewService.csproj.CopyComplete
